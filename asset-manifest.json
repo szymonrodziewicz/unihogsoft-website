@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68549bac.chunk.css",
+    "main.js": "/static/js/main.0fafa9cf.chunk.js",
+    "main.js.map": "/static/js/main.0fafa9cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5bbeed4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5bbeed4.js.map",
+    "static/js/2.99572325.chunk.js": "/static/js/2.99572325.chunk.js",
+    "static/js/2.99572325.chunk.js.map": "/static/js/2.99572325.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0929285f149f9d4f4c92e03eab2115a5.js": "/precache-manifest.0929285f149f9d4f4c92e03eab2115a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.68549bac.chunk.css.map": "/static/css/main.68549bac.chunk.css.map",
+    "static/js/2.99572325.chunk.js.LICENSE.txt": "/static/js/2.99572325.chunk.js.LICENSE.txt",
+    "static/media/roboto_grid.png": "/static/media/roboto_grid.677831e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5bbeed4.js",
+    "static/js/2.99572325.chunk.js",
+    "static/css/main.68549bac.chunk.css",
+    "static/js/main.0fafa9cf.chunk.js"
+  ]
+}
