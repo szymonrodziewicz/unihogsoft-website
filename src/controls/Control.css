@@ -1,0 +1,25 @@
+.control {
+  position: fixed;
+  top: 5%;
+  right: 5%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background: rgba(0,0,0,0.7);
+}
+.row {
+  margin: 5px;
+  display: flex;
+  color: white;
+}
+.valIn {
+  margin: 3px;
+  flex-basis: 60%;
+}
+.desc {
+  margin: 3px;
+  flex-basis: 40%;
+}
+#btnRow {
+  justify-content: center;
+}
